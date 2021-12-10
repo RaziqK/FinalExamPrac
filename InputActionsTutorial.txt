@@ -1,3 +1,5 @@
+menu: Edit > Project Settings > Player > Other Settings > Active Input Handling FOR ENABLING BOTH INPUTS
+
 Window -> Package Manager
 Download Input System from Unity Registry
 Right Click Assets -> New Input Actions

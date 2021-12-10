@@ -16,3 +16,6 @@ In inspector -> Generate C# Class and apply
 In New Script -> Create PlayerController
 
 add code from lab 2 for movement or assignment.
+
+
+INSPECTOR -> FILTER MODE -> POINT ( NO FILTER ) TO REMOVE BLUR OF ANIMATION

@@ -1,0 +1,16 @@
+Window -> Package Manager
+Download Input System from Unity Registry
+Right Click Assets -> New Input Actions
+Click Input Actions
+Create new Action Map
+Create Action
+Right Click Action -> 2d Vector Composite
+Input ur buttons to move
+
+Save Asset
+
+In inspector -> Generate C# Class and apply
+
+In New Script -> Create PlayerController
+
+add code from lab 2 for movement or assignment.
